@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-gtmceh": {
+      "hosting": {
+        "angular.io-example": [
+          "angular-gtmceh"
+        ]
+      }
+    }
+  }
+}
